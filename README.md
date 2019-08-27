@@ -23,7 +23,7 @@ Loguru - Loguru is a library which aims to bring enjoyable logging in Python.
 Urllib3 - It's a powerful HTTP client for Python.  
 `$ pip3 install urllib3`
 
-## Getting started
+## How to run
 
 It is recommended to use a virtual environment to install the Python libraries, you can find the documentation [here](https://docs.python.org/3/library/venv.html)
 1- using pip3 and the requirements file, install the needed libraries.  
